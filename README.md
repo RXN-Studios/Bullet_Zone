@@ -11,6 +11,8 @@
 * **Platform:** Web (HTML5 / CSS3 / JavaScript).
 * **Architecture:** Event-driven UI and asynchronous storage management.
 * **Rendering:** Clean, performance-optimized DOM and Canvas interaction.
+* **Development Process:** Built via **AI-Assisted Development** (Claude 3.5 Sonnet) for high-speed iteration.
+* **Role:** Acted as **Lead Architect**; designed the core gameplay loop, weapon progression math, and persistent data architecture, directing the AI for precise code implementation and UI styling.
 
 ## ⌨️ Controls
 * **Mouse/Touch:** Aim and Navigation.
